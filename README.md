@@ -1,4 +1,4 @@
-# 🚀 Micro-Commute Optimizer
+# Micro-Commute Optimizer
 
 > **AI-Powered Route Planning with Machine Learning Personalization**
 
